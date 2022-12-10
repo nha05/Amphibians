@@ -14,7 +14,6 @@
  * limitations under the License.
  */
 package com.example.amphibians.ui
-
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
